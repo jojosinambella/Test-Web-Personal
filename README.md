@@ -1,5 +1,7 @@
 GASPOL77
 DIJAMIN ANTI RUNGKAT
+
+
 <!DOCTYPE html>
 <html>
 
@@ -31,4 +33,6 @@ DIJAMIN ANTI RUNGKAT
 </body>
 
 </html>
+<a href="https://gaspols77.com/"><img src="https://opengraph.b-cdn.net/production/images/e90aef54-df85-406c-9986-300e94e774e3.jpg?token=y5YkPx0xMN4SFUJxxrfzUJ4d8C4v0Pj_s4D0HPI5Xy4&height=405&width=720&expires=33276511774" /></a>
+
 <a href="https://gaspols77.com/"><img src="https://opengraph.b-cdn.net/production/images/c0587aec-506f-48df-a85c-17e801a84b7a.jpg?token=dgFBFS38ZnCpspX-ZsjgcjlyaCX3FUJ3hNp9Kl78npA&height=675&width=1200&expires=33276512135" /></a>
