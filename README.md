@@ -6,10 +6,9 @@ DIJAMIN ANTI RUNGKAT
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width">
-  <title></title>
+
   <link href="style.css" rel="stylesheet" type="text/css" />
 
-  <title></title>
   <meta name="description" content="">
 
   <meta property="og:url" content="https://gaspols77.com/">
