@@ -6,7 +6,7 @@ DIJAMIN ANTI RUNGKAT
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width">
-  <title>GASPOL77</title>
+  <title></title>
   <link href="style.css" rel="stylesheet" type="text/css" />
 
   <title></title>
@@ -29,7 +29,6 @@ DIJAMIN ANTI RUNGKAT
 
 <body>
 
-  <script src="script.js"></script>
 </body>
 
 </html>
